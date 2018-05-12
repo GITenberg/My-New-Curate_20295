@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9214'
     url: http://www.gutenberg.org/2009/agents/9214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20295#My-New-Curate
 gutenberg_issued: '2007-01-06'
 gutenberg_type: Text
 identifiers:
